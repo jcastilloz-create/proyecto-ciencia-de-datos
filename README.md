@@ -71,7 +71,7 @@ Los modelos entrenados se guardan en:
 
 backend/models/
 
-🗂 5. Estructura del Proyecto
+5. Estructura del Proyecto
 proyecto_ciencia_datos/
 │
 ├── frontend/
