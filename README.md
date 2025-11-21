@@ -6,15 +6,15 @@ El propósito es desarrollar, entrenar y desplegar un modelo de machine learning
 
 El proyecto incluye:
 
-✔ Limpieza y preparación de datos
-✔ Ingeniería de atributos
-✔ Entrenamiento de 3 modelos (KNN, MLP y Regresión Lineal)
-✔ Evaluación de desempeño
-✔ Comparación de los modelos
-✔ API con Flask para realizar predicciones
-✔ Interfaz web donde el usuario ingresa variables y recibe la predicción
-✔ Documentación completa y estructura profesional
-✔ Repositorio en GitHub con frontend + backend
+Limpieza y preparación de datos
+Ingeniería de atributos
+Entrenamiento de 3 modelos (KNN, MLP y Regresión Lineal)
+Evaluación de desempeño
+Comparación de los modelos
+API con Flask para realizar predicciones
+Interfaz web donde el usuario ingresa variables y recibe la predicción
+Documentación completa y estructura profesional
+Repositorio en GitHub con frontend + backend
 
 2. Variable Objetivo y Variables Predictoras
 3. Variable objetivo
